@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\bogdan\source\repos\opengl\opengl\main.cpp(23): warning C4551: в вызове функции отсутствует список аргументов
+LINK : warning LNK4098: сшсышюЄхър яю єьюыўрэш■ "MSVCRT" яЁюЄштюЁхўшЄ шёяюы№чютрэш■ фЁєушї сшсышюЄхъ; шёяюы№чєщЄх ярЁрьхЄЁ /NODEFAULTLIB:library
+main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы __imp__glViewport@16 т ЇєэъЎшш _main
+C:\Users\Bogdan\source\repos\OpenGL\Debug\openGL.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 1

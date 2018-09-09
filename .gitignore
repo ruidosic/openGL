@@ -1,0 +1,10 @@
+#Ignore GLFW and GLEW
+GLFW/
+GLEW/
+#Ignore other
+glut.dll
+glut.h
+glut.lib
+glut32.dll
+glut32.lib
+openGL/linmath.h
